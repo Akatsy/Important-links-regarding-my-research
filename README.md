@@ -26,6 +26,9 @@
 
 [WHEN TO USE NORMAL SCALING AND POWERLOG TRANSMISSION](https://towardsdatascience.com/how-to-differentiate-between-scaling-normalization-and-log-transformations-69873d365a94)
 
+[CLASSIFICATION HYPERPARAMETER TUNING](https://machinelearningmastery.com/hyperparameters-for-classification-machine-learning-algorithms/)
+
+
  #### QUOTE code
  
  ```
